@@ -19,4 +19,4 @@
 
 หน้าที่แสดงข้อมูลของผู้ใช้, แสดงจำนวนครั้งที่ผู้ใช้คนนั้นกดยกเลิกก่อนเวลาจอง1ชั่วโมง และ แสดง ตารางของห้องที่ผู้ใช้จองไว้
 
-![index](/Wireframe/user_information_page.png)
+![index](/Wireframe/new_user_information_page.png)
